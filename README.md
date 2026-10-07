@@ -24,4 +24,4 @@ Product photography and web fonts load from external Unsplash and Google Fonts U
 
 The `main` branch is configured to deploy to GitHub Pages with GitHub Actions. The site is built automatically on each push and published at:
 
-https://prateek2302.github.io/sole-house-task25/
+https://prateek2302.github.io/prateekjain_task25/

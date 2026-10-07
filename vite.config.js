@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/sole-house-task25/",
+  base: "/prateekjain_task25/",
 });
